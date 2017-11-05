@@ -1,0 +1,12 @@
+<resources>
+
+    <string-array name="spinner_location">
+
+        <item>Mammoth Lakes, California</item>
+        <item>Seoul, South Korea</item>
+        <item>Portland, Oregon</item>
+
+    </string-array>
+
+
+</resources>

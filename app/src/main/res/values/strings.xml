@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">ApiDemo</string>
+
+    <string name="main_name">Name</string>
+    <string name="main_longitude">Longitude</string>
+    <string name="main_latitude">Latitude</string>
+
+    <string name="btn_sign_in">Sign In</string>
+
+</resources>
